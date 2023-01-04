@@ -1,6 +1,6 @@
 # Scalable_VB_Hawkes
 
-Source code for Scalable Variational Bayes methods for Hawkes processes[https://arxiv.org/abs/2212.00293]
+Source code for [Scalable Variational Bayes methods for Hawkes processes](https://arxiv.org/abs/2212.00293)
 
 This repository contains a class to simulate from a multivariate nonlinear Hawkes process and the adaptive variational inference methods of the paper.
 
