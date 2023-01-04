@@ -1,4 +1,4 @@
-# Scalable_VB_Hawkes
+# Scalable and adaptive variational algorithms for nonlinear Hawkes processes
 
 Source code for [Scalable Variational Bayes methods for Hawkes processes](https://arxiv.org/abs/2212.00293)
 
