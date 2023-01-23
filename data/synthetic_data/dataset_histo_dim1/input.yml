@@ -1,0 +1,3 @@
+data_input: ./Scalable_VB_Hawkes/data/synthetic_data/dataset_histo_dim2/settings.yml
+data: ./Scalable_VB_Hawkes/data/synthetic_data/dataset_histo_dim2/data.p
+syn_data: false
